@@ -2,7 +2,6 @@
 <h3 align="center">Scaling systems and crunching data!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-sp&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-sp" /> </p>
-<p align="left"> <a href="https://twitter.com/imashwin1994" target="blank"><img src="https://img.shields.io/twitter/follow/imashwin1994?logo=twitter&style=for-the-badge" alt="imashwin1994" /></a> </p>
 
 - 🔭 I’m currently working on **a coding project**
 
